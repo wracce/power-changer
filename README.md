@@ -1,11 +1,9 @@
-# Пятнашки - простая головоломка
+# PowerChanger - быстрая смена планов электропитания Windows
 
- Пятнашки — это головоломка, где нужно перемещать плитки по полю 4x4, чтобы упорядочить числа от 1 до 15, оставив одну ячейку пустой для перемещения.
+ PowerChanger — это утилита, которая позволяет выбирать следующий план электропитания среди всех планов простым откритием exe .
 
 <p align="center">
-    <img width="32%" src="public/prewiew_lobby.png" />
-    <img width="32%" src="public/prewiew_game.png" />
-    <img width="32%" src="public/prewiew_finished.png" />
+    <img width="100%" src="public/prewiew.png" />
 </p>
 
  ## Попробовать
