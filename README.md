@@ -7,7 +7,7 @@
 </p>
  
  ## Попробовать
-Releze WIN x64
+[Releze WIN x64](https://github.com/wracce/power-changer/releases/tag/v0.0.1)
 
 ## Стек технологий
 
